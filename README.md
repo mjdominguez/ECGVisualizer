@@ -12,4 +12,4 @@ In order to test the tool functionaloty, a couple of anonymized xmls are provide
 
 Here you are some captures from the software tool:
 
-![alt text](https://github.com/mjdominguez/ECGVisualizer/images/processinChain.jpg?raw=true)
+![alt text](https://github.com/mjdominguez/ECGVisualizer/images/ProcessinChain.jpg?raw=true)
