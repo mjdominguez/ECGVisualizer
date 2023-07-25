@@ -1,5 +1,7 @@
 # ECG Visualizer v0.96
 
+#Description
+
 This project presents a tool for visualization, filtering, PQRST peaks automatic detection and reports generation using the xml files provided by the General Electric CardioSoft 12SL.
 
 The project is under continuous development and, for now, only contemplates automatic filtering and automatic peak detection based on predefined PR, QRS and QT intervals.
