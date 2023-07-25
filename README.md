@@ -13,6 +13,7 @@ It is very important to point out that this tool has been developed expressly fo
 In order to test the tool functionaloty, a couple of anonymized XMLs are provided.
 
 ## Table of Content
+1. [Getting started](#getting started)
 
 
 ## Getting started
