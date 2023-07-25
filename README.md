@@ -12,6 +12,28 @@ It is very important to point out that this tool has been developed expressly fo
 
 In order to test the tool functionaloty, a couple of anonymized XMLs are provided.
 
+## Table of Content
+
+
+## Getting started
+
+
+## Usage
+
 Here you are some captures from the software tool:
 
 ![ProcessingChain](https://github.com/mjdominguez/ECGVisualizer/assets/26136706/49bc6bd7-2ddf-41d2-ba6b-0f4bfec43cae)
+
+## Credits
+
+
+## License
+
+This project is licensed under the GPL License - see the LICENSE.md file for details.
+
+Copyright © 2023 Manuel Domínguez-Morales
+mjdominguez@us.es 
+
+## Cite this work
+
+soon...
