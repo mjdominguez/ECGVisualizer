@@ -25,7 +25,7 @@ In order to test the tool functionaloty, a couple of anonymized XMLs are provide
 
 ## Usage
 
-Here you are some captures from the software tool:
+Here you can check the flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features:
 
 ![ProcessingChain](https://github.com/mjdominguez/ECGVisualizer/assets/26136706/49bc6bd7-2ddf-41d2-ba6b-0f4bfec43cae)
 
