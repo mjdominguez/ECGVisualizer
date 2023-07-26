@@ -31,6 +31,9 @@ Here you are some captures from the software tool:
 
 ## Credits
 
+The authors of the ECGVisualizer's original idea are: Manuel Domínguez-Morales, Adolfo Muñoz-Macho and José Luis Sevillano.
+
+The authors would like to thank and give credit to RCD Mallorca SAD, its football players and medical staff for allowing us to work with anonymized data from electrocardiograms taken from its football players.
 
 ## License
 
@@ -43,4 +46,4 @@ mjdominguez@us.es
 
 ## Cite this work
 
-soon...
+Domínguez-Morales, M., Muñoz-Macho, A., & Sevillano, J. L. (2023). _ECGVisualizer: A 12-lead ECG pre-processing, feature extraction and report generation tool_ [Manuscript submitted for publication]. Architecture and Technology of Computers dept., University of Seville (Spain).
