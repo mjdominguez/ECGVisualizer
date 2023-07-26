@@ -39,7 +39,7 @@ This project is licensed under the GPL License - see the LICENSE.md file for det
 Copyright © 2023 Manuel Domínguez-Morales
 mjdominguez@us.es 
 
-[![License: GPL v3]([https://img.shields.io/badge/any_text-you_like-blue](https://img.shields.io/badge/License-GPL%20v3-blue)
+[![License: GPL v3]([https://img.shields.io/badge/License-GPL%20v3-blue](https://img.shields.io/badge/License-GPL%20v3-blue)
 
 ## Cite this work
 
