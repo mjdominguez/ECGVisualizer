@@ -30,6 +30,8 @@ Double-click on the ECGVisualizer.exe file to run it. The main sections of the t
 ![MainFrame](https://github.com/mjdominguez/ECGVisualizer/blob/37612b7b5ce1bab836067e480c39e818fcd8bb93/ECGVisualizer/images/example1-described.png)
 
 
+
+
 Here you can check the flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features:
 
 ![ProcessingChain](https://github.com/mjdominguez/ECGVisualizer/assets/26136706/49bc6bd7-2ddf-41d2-ba6b-0f4bfec43cae)
