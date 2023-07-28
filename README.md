@@ -16,9 +16,10 @@ In order to test the tool functionaloty, a couple of anonymized XMLs are provide
 
 1. [General Description](#general-description)
 2. [Automatic Processing](#automatic-processing)
-3. [Credits](#credits)
-4. [License](#license)
-5. [Cite this work](#cite-this-work)
+3. [Manual Processing](#manual-processing)
+4. [Credits](#credits)
+5. [License](#license)
+6. [Cite this work](#cite-this-work)
 
 
 ## General description
@@ -39,6 +40,8 @@ Double-click on the ECGVisualizer.exe file to run it. The main sections of the t
 Here you can check the flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features:
 
 ![ProcessingChain](https://github.com/mjdominguez/ECGVisualizer/assets/26136706/49bc6bd7-2ddf-41d2-ba6b-0f4bfec43cae)
+
+## Manual processing
 
 ## Credits
 
