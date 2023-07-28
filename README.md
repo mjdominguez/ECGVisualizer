@@ -37,7 +37,9 @@ Double-click on the ECGVisualizer.exe file to run it. The main sections of the t
 
 ## Automatic processing
 
-Here you can check the flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features:
+The automatic processing includes a custom filtering chain based on a pre-selected combination of filters. It is described in "Help" menu.
+
+The complete flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features are detailed next:
 
 ![ProcessingChain](https://github.com/mjdominguez/ECGVisualizer/assets/26136706/49bc6bd7-2ddf-41d2-ba6b-0f4bfec43cae)
 
