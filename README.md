@@ -55,7 +55,7 @@ Here you can check some captures that may help to understand these steps:
 
 ![ManualFiltering](https://github.com/mjdominguez/ECGVisualizer/blob/035bdedad2666ad5619bd3cf20a3e359ad29523b/ECGVisualizer/images/manualFiltering.png)
 
-The four types of filters the user can apply are: fixed-average filter, moving-average filter, moving-median filter and band-stop filter. Moreover, the tool includes the posibility of substracting signals, providing their sources (A to D, as output of the previously applied filters). The explanation of these filters are included in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/tree/0c0b98fe0282c5c1d9fe420ac0c851006d764c04/ECGVisualizer/documentation).
+The four types of filters the user can apply are: fixed-average filter, moving-average filter, moving-median filter and band-stop filter. Moreover, the tool includes the posibility of substracting signals, providing their sources (A to D, as output of the previously applied filters). The explanation of these filters are included in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/blob/3fb37baf7c4afc1af5753ee94a93dc224443a4e9/ECGVisualizer/documentation/User%20Manual.pdf).
 
 2) Selecting Patient Target: this tool allows to select the type of patient whose ECG signal is analyzed. This information is essential as, if the patient has a particular physical condition, the times between the segments of the different peaks of the ECG signal may change substantially. This is especially true for professional athletes.
 
@@ -76,7 +76,7 @@ The following screenshot shows the configuration window for this task:
 ![FeaturesSelection](https://github.com/mjdominguez/ECGVisualizer/blob/035bdedad2666ad5619bd3cf20a3e359ad29523b/ECGVisualizer/images/FeaturesSelected.png)
 
 
-All the tools and options that this programme contains are deeply detailed in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/tree/0c0b98fe0282c5c1d9fe420ac0c851006d764c04/ECGVisualizer/documentation).
+All the tools and options that this programme contains are deeply detailed in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/blob/3fb37baf7c4afc1af5753ee94a93dc224443a4e9/ECGVisualizer/documentation/User%20Manual.pdf).
 
 ## Credits
 
