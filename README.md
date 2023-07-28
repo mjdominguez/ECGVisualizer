@@ -45,6 +45,16 @@ The complete flow diagram when using the automatic filtering, the pre-congigured
 
 ## Manual processing
 
+The processing chain performed for the manual processing follows the same steps.
+
+The differences are that the user can select what filters to apply (and their order), the target patient and the features selected to extract and include in the final report.
+
+Here you can check some captures that may help to understand these steps:
+
+1) Manual Filtering:
+2) Selecting Patient Target: 
+3) Selecting Features:
+
 ## Credits
 
 The authors of the ECGVisualizer's original idea are: Manuel Domínguez-Morales, Adolfo Muñoz-Macho and José Luis Sevillano.
