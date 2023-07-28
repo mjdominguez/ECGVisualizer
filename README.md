@@ -28,7 +28,7 @@ Double-click on the ECGVisualizer.exe file to run it. The main sections of the t
 
 ![MainFrame](https://github.com/mjdominguez/ECGVisualizer/blob/37612b7b5ce1bab836067e480c39e818fcd8bb93/ECGVisualizer/images/example1-described.png)
 
-1) Section 1 (red): Toolsbar. This sections contains several options that allows the user loading ECG files, filtering ECGT signal, selecting the features extracted and configuring the report generated. All the options are described in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/tree/0c0b98fe0282c5c1d9fe420ac0c851006d764c04/ECGVisualizer/documentation).
+1) Section 1 (red): Toolsbar. This sections contains several options that allows the user loading ECG files, filtering ECGT signal, selecting the features extracted and configuring the report generated. All the options are described in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/blob/3fb37baf7c4afc1af5753ee94a93dc224443a4e9/ECGVisualizer/documentation/User%20Manual.pdf).
 2) Section 2 (blue): Basic patient information. Here, the baseline information obtained from the ECG file is shown. This information may be selected to be included in the final report.
 3) Section 3 (orange): Visualization tools. These tools allows the user to increase or decrease zoom. In the case the user want to return to the default zoom, he/she can clic on "Default".
 4) Section 4 (green): Signal information. This is an informative section, where the main charactreristics of the loaded ECG signal are shown: Hertzs, number of seconds and resolution of the signal. Hertzs may vary when applying fixed-window average filters.
