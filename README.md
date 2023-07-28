@@ -13,22 +13,28 @@ It is very important to point out that this tool has been developed expressly fo
 In order to test the tool functionaloty, a couple of anonymized XMLs are provided.
 
 ## Table of Content
-1. [Getting started](#getting-started)
-2. [Usage](#usage)
+
+1. [General Description](#general-description)
+2. [Automatic Processing](#automatic-processing)
 3. [Credits](#credits)
 4. [License](#license)
 5. [Cite this work](#cite-this-work)
 
 
-## Getting started
-
-
-## Usage
+## General description
 
 Double-click on the ECGVisualizer.exe file to run it. The main sections of the tool can be observed next:
 
 ![MainFrame](https://github.com/mjdominguez/ECGVisualizer/blob/37612b7b5ce1bab836067e480c39e818fcd8bb93/ECGVisualizer/images/example1-described.png)
 
+1) Section 1 (red): Toolsbar. This sections contains several options that allows the user loading ECG files, filtering ECGT signal, selecting the features extracted and configuring the report generated. All the options are described in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/tree/0c0b98fe0282c5c1d9fe420ac0c851006d764c04/ECGVisualizer/documentation)
+2) Section 2 (blue): Basic patient information. Here, the baseline information obtained from the ECG file is shown. This information may be selected to be included in the final report.
+3) Section 3 (orange): Visualization tools. These tools allows the user to increase or decrease zoom. In the case the user want to return to the default zoom, he/she can clic on "Default".
+4) Section 4 (green): Signal information. This is an informative section, where the main charactreristics of the loaded ECG signal are shown: Hertzs, number of seconds and resolution of the signal. Hertzs may vary when applying fixed-window average filters.
+5) Section 5 (purple): ECG signal visualization. The 12-lead ECG signal is represented here. User may select which lead to visualize and move though it using the scrolls. The results of the filtering and peaks detection process are represented here too.
+
+
+## Automatic processing
 
 Here you can check the flow diagram when using the automatic filtering, the pre-congigured patient target and the most common features:
 
