@@ -91,7 +91,7 @@ These tools can be accesed in "Tools" --> "Modify ECG". They are:
 
 3) Peaks Modification: this tool allows the user to apply a multiplier factor (from negative to positive) to specific peaks (P, Q, R, S or T) and a time window whithin these peaks are. This tool also allow to select which leads to be applied. It is important to mention that this tool will be only available (visible) after the peaks detection process.
 
-![ModificationMenu](https://github.com/mjdominguez/ECGVisualizer/blob/035bdedad2666ad5619bd3cf20a3e359ad29523b/ECGVisualizer/images/modify.png)
+![ModificationMenu](https://github.com/mjdominguez/ECGVisualizer/blob/7a7679c540a2e0cd22193f9cd7c99790a574ed6c/ECGVisualizer/images/modify.png)
 
 ## Credits
 
