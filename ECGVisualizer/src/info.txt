@@ -1,0 +1,6 @@
+v0.98
+News:
+- Several errors corrected
+- Option "Save ECG" included
+- Submenu "Modigy ECG" included
+- Functionalities for modifying the ECG signals are included: amplitude modifications, timing modifications and peaks modifications (with leads selection).
