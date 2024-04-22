@@ -17,7 +17,7 @@ In order to test the tool functionaloty, a couple of anonymized XMLs are provide
 1. [General Description](#general-description)
 2. [Automatic Processing](#automatic-processing)
 3. [Manual Processing](#manual-processing)
-4. [Modify ECG - v0.98](#modification)
+4. [Modify ECG](#modify-ECG)
 5. [Credits](#credits)
 6. [License](#license)
 7. [Cite this work](#cite-this-work)
@@ -79,7 +79,7 @@ The following screenshot shows the configuration window for this task:
 
 All the tools and options that this programme contains are deeply detailed in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/blob/3fb37baf7c4afc1af5753ee94a93dc224443a4e9/ECGVisualizer/documentation/User%20Manual.pdf).
 
-## Modify ECG - v0.98
+## Modify ECG
 
 ECGVisualizer also includes some tools to modify the ECG signal (after v0.98).
 
