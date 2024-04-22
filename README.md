@@ -17,9 +17,10 @@ In order to test the tool functionaloty, a couple of anonymized XMLs are provide
 1. [General Description](#general-description)
 2. [Automatic Processing](#automatic-processing)
 3. [Manual Processing](#manual-processing)
-4. [Credits](#credits)
-5. [License](#license)
-6. [Cite this work](#cite-this-work)
+4. [Modify ECG - v0.98](#modification)
+5. [Credits](#credits)
+6. [License](#license)
+7. [Cite this work](#cite-this-work)
 
 
 ## General description
@@ -78,6 +79,18 @@ The following screenshot shows the configuration window for this task:
 
 All the tools and options that this programme contains are deeply detailed in the [User Manual](https://github.com/mjdominguez/ECGVisualizer/blob/3fb37baf7c4afc1af5753ee94a93dc224443a4e9/ECGVisualizer/documentation/User%20Manual.pdf).
 
+## Modify ECG - v0.98
+
+ECGVisualizer also includes some tools to modify the ECG signal (after v0.98).
+
+These tools can be accesed in "Tools" --> "Modify ECG". They are:
+
+1) Amplitude Modification: this tool allows the user to apply a multiplier factor to the amplitudes of the whole ECG signal.
+
+2) Timing Modification: this tool allows the user to apply a multiplier factor to the time between samples of the whole ECG signal.
+
+3) Peaks Modification: this tool allows the user to apply a multiplier factor (from negative to positive) to specific peaks (P, Q, R, S or T) and a time window whithin these peaks are. This tool also allow to select which leads to be applied. It is important to mention that this tool will be only available (visible) after the peaks detection process.
+
 ## Credits
 
 The authors of the ECGVisualizer's original idea are: Manuel Domínguez-Morales, Adolfo Muñoz-Macho and José Luis Sevillano.
@@ -95,4 +108,4 @@ mjdominguez@us.es
 
 ## Cite this work
 
-Domínguez-Morales, M., Muñoz-Macho, A., & Sevillano, J. L. (2023). _ECGVisualizer: A 12-lead ECG pre-processing, feature extraction and report generation tool_ [Manuscript submitted for publication]. Architecture and Technology of Computers dept., University of Seville (Spain).
+Domínguez-Morales, M., Muñoz-Macho, A., & Sevillano, J. L. (2023). _ECG visualizer, pre-processing, feature extraction and data augmentation tool for intelligent simulation systems_ [Manuscript submitted for publication to SIMULATION (ISSN: 0037-5497)]. Architecture and Technology of Computers dept., University of Seville (Spain).
