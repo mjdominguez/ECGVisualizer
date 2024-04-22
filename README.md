@@ -103,7 +103,7 @@ The authors would like to thank and give credit to RCD Mallorca SAD, its footbal
 
 This project is licensed under the GPL License - see the LICENSE.md file for details.
 
-Copyright © 2023 Manuel Domínguez-Morales
+Copyright © 2024 Manuel Domínguez-Morales
 mjdominguez@us.es 
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue)
