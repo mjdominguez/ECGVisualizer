@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|c:\\clouds\\onedrive - universidad de sevilla\\3- investigacion\\proyectos\\ecg visualizer\\ecgvisualizer_trab_b2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|c:\\clouds\\onedrive - universidad de sevilla\\3- investigacion\\proyectos\\ecg visualizer\\ecgvisualizer_trab_b2\\dialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|solutionrelative:dialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|c:\\clouds\\onedrive - universidad de sevilla\\3- investigacion\\proyectos\\ecg visualizer\\ecgvisualizer_trab_b2\\atribs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|solutionrelative:atribs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|c:\\clouds\\onedrive - universidad de sevilla\\3- investigacion\\proyectos\\ecg visualizer\\ecgvisualizer_trab_b2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A15459-DEA5-4408-AAFC-726162941B75}|ECGVisualizer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atribs.cs",
+              "DocumentMoniker": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Atribs.cs",
+              "RelativeDocumentMoniker": "Atribs.cs",
+              "ToolTip": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Atribs.cs",
+              "RelativeToolTip": "Atribs.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:32:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dialogs.cs",
+              "DocumentMoniker": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Dialogs.cs",
+              "RelativeDocumentMoniker": "Dialogs.cs",
+              "ToolTip": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Dialogs.cs",
+              "RelativeToolTip": "Dialogs.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:30:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAANILAAAAAAAAAAAgwNULAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:26:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\CLOUDs\\OneDrive - UNIVERSIDAD DE SEVILLA\\3- Investigacion\\PROYECTOS\\ECG Visualizer\\ECGVisualizer_trab_b2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:23:39.662Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
